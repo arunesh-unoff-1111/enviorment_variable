@@ -1,0 +1,6 @@
+{
+  "name": "Inner Balance",
+  "description": "A private 36-question self-reflection assessment collection system with a secure admin analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
